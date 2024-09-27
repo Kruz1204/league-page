@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Fantasy Football Redraft Money League.</p>
+  <p>Fantasy Football Redraft Money League</p>
 `;
 
 /*   STEP 3   */
